@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Dzmitry
 <b>
-Frontend developer who has a results-focused attitude to creating SPA, using React/Redux. And I love Type Script, it is beautiful.
+Goal-oriented frontend developer, fast-learner and a perfect team-player. Eager to be worth a huge salary;)
 
  </b>
 <hr>
